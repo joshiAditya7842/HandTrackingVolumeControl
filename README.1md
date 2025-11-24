@@ -1,0 +1,17 @@
+# Hand Tracking Volume Control 🎚️🖐️
+
+This project controls the **system volume** using **hand gestures** detected from a webcam.
+
+It uses:
+- **OpenCV** – to capture video from the webcam
+- **MediaPipe Hands** – to detect hand landmarks
+- **NumPy** – for calculations
+- **Pycaw** – to control Windows system volume
+- **Python 3.x**
+
+## 📦 Requirements
+
+Install dependencies using:
+
+```bash
+pip install -r requirements.txt
