@@ -1,0 +1,6 @@
+opencv-python
+mediapipe==0.10.14
+numpy<2.0
+pycaw
+comtypes
+python version 3.08->3.11
